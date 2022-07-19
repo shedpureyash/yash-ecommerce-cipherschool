@@ -1,7 +1,7 @@
 {
   "name": "addtocart",
   "version": "0.1.0",
-  "homepage": "https://shedpureyash.github.io/",
+  "homepage": "https://shedpureyash.github.io/yash-ecommerce-cipherschool",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
