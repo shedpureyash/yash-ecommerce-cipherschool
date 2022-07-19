@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9c8f168.css",
-    "main.js": "/static/js/main.d02ef162.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.e9c8f168.css.map": "/static/css/main.e9c8f168.css.map",
-    "main.d02ef162.js.map": "/static/js/main.d02ef162.js.map"
+    "main.css": "/yash-ecommerce-cipherschool/static/css/main.e9c8f168.css",
+    "main.js": "/yash-ecommerce-cipherschool/static/js/main.2a84d68c.js",
+    "static/media/logo.svg": "/yash-ecommerce-cipherschool/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yash-ecommerce-cipherschool/index.html",
+    "main.e9c8f168.css.map": "/yash-ecommerce-cipherschool/static/css/main.e9c8f168.css.map",
+    "main.2a84d68c.js.map": "/yash-ecommerce-cipherschool/static/js/main.2a84d68c.js.map"
   },
   "entrypoints": [
     "static/css/main.e9c8f168.css",
-    "static/js/main.d02ef162.js"
+    "static/js/main.2a84d68c.js"
   ]
 }
